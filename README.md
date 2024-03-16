@@ -3,4 +3,4 @@ Weather application created during #30daysofcoding challenge to check the curren
 
 ## Screenshot of the application:
 
-![](images/Screenshot 2024-03-15 at 9.20.52 PM.png)
+![](images/weather-now-output.png)
