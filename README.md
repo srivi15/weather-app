@@ -3,4 +3,4 @@ Weather application created during #30daysofcoding challenge to check the curren
 
 Screenshot of the application:
 
-![Weather Now!](https://github.com/srivi15/markdown-here/raw/master/src/common/images/icon48.png "Output Image")
+![Weather Now!](images/Screenshot 2024-03-15 at 9.20.52 PM.png "Output Image")
